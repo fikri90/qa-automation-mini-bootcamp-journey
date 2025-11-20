@@ -1,4 +1,4 @@
-# SESI 4 - Programing Advance
+# SESI 4 - Programming Advance
 
 Folder ini berisi materi dan tugas untuk sesi 4 yang berfokus pada penggunaan array, switch-case, function, serta cara memisahkan logic ke dalam file terpisah menggunakan module export & import.
 
